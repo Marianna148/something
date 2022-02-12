@@ -1,0 +1,17 @@
+body {
+    background-color: chartreuse;
+    margin: 0px;
+}
+.container {
+    color: red;
+    margin: 50px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 10px;
+    padding: 50px
+
+}
+.text-black {
+    font-size: 30px;
+    color: black
+}
